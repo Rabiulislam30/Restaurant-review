@@ -1,2 +1,2 @@
 # Restaurant-review
-I create a simple  Machine Learning project using Numpy, Pandas, Matplotlib, Seborn
+I create a Machine Learning project using Numpy, Pandas, Matplotlib, Seborn
